@@ -32,9 +32,6 @@ form fieldset {
   padding: 21px 28px 8px;
 }
 
-form fieldset legend {
-}
-
 fieldset {
   display: flex;
   gap: 48px;
